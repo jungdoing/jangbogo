@@ -1,0 +1,8 @@
+{
+  "name": "Remix: 장바구니 레이더",
+  "description": "우리 동네 골목 마트 4곳의 실시간 물가를 모니터링하고 대형마트 원정 대비 진짜 기름값과 이동 시간 가치까지 고려한 초밀착 1초 가성비 계산기와 오늘자 시세표를 제공합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
